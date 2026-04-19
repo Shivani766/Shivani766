@@ -132,10 +132,10 @@ const shivani = {
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
 |:---:|:---|:---:|:---:|
-| **Ivootex Invoice Generator** | A backend system to generate professional, downloadable invoices. Supports dynamic billing, PDF export, and client management. | Node.js · Express · MongoDB · PDF-lib | [View Repo](https://github.com/Shivani766) |
-| **E-Commerce Website** | A full-featured online store with product listings, cart functionality, and order management. Clean UI with dynamic data rendering. | React · Node.js · Express · MongoDB | [View Repo](https://github.com/Shivani766) |
-| **Developer Portfolio** | A personal portfolio showcasing projects, skills, and contact info. Deployed live on Netlify with smooth animations. | HTML · CSS · JavaScript · Netlify | [Live Site](https://polite-monstera-1cbe7c.netlify.app/) |
-| **Shivi Mini Projects** | A collection of interactive mini-projects covering DOM manipulation, games, form validation, and UI components. | HTML · CSS · JavaScript | [View Repo](https://github.com/Shivani766/basic-projects-) |
+| **Ivootex Invoice Generator** | A backend system to generate professional, downloadable invoices. Supports dynamic billing, PDF export, and client management. | Node.js · Express · MongoDB · PDF-lib | [View Repo]([https://github.com/Shivani766](https://github.com/Shivani766/invootex)) |
+| **E-Commerce Website** | A full-featured online store with product listings, cart functionality, and order management. Clean UI with dynamic data rendering. | React · Node.js · Express · MongoDB | [https://e-commerce-website-2026.netlify.app/) |
+| **Developer Portfolio** | A personal portfolio showcasing projects, skills, and contact info. Deployed live on Netlify with smooth animations. | HTML · CSS · JavaScript · Netlify | [Live Site]https://github.com/Shivani766/shivani-portfolio) |
+| **Shivi Mini Projects** | A collection of interactive mini-projects covering DOM manipulation, games, form validation, and UI components. | HTML · CSS · JavaScript | [View Repo](https://github.com/Shivani766/shivi.html) |
 | **React Projects Collection** | Hands-on React projects including hooks, state management, component architecture, and API integration exercises. | React · JavaScript · CSS | [View Repo](https://github.com/Shivani766/react-projects) |
 
 </div>
