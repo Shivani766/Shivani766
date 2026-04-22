@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Shivani+Diwakar+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Stack;Building+Scalable+%26+Beautiful+Apps;Always+Learning%2C+Always+Growing+%F0%9F%8C±)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://www.linkedin.com/in/shivani-diwakar-2409482b2">
+  <a href="https://www.linkedin.com/in/shivani-diwakar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://polite-monstera-1cbe7c.netlify.app/">
@@ -164,7 +164,7 @@ const shivani = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shivani-diwakar-2409482b2">
+<a href="https://www.linkedin.com/in/shivani-diwakar">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
