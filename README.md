@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivani%20Diwakar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Shivani+Diwakar+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Stack;Building+Scalable+%26+Beautiful+Apps;Always+Learning%2C+Always+Growing+%F0%9F%8C±)](https://git.io/typing-svg)
