@@ -22,7 +22,7 @@
 
 ---
 
-## 👋 Hello, World!
+## 👋 Hello, World !
 
 > *"Code is not just syntax — it's a story I tell to solve real problems."*
 
